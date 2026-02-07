@@ -1,4 +1,4 @@
-# Feb 7th work Reword
+# Feb 7th work Record
 ## Task Point   
 1. 今日工作阅读了 MEMIT(MASS-EDITING MEMORY IN A TRANSFORMER)
 2. 阅读了MEMIT源码
